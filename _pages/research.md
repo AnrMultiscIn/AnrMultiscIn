@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Codes and Datasets
+# Codes 
 
 All ANR Multisc'in shared codes and datasets are availabe on our github repo. We highlight some [codes](#code-highlights) and [datasets](#dataset-highlights) below. We also provide full lists for [codes](#full-list-of-available-codes) and [datasets](#full-list-of-available-datasets)
 
