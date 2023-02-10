@@ -199,6 +199,3 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 
 </div>
 -->
-
-## Administrative Support
-<a href="mailto:martine.besnard@imt-atlantique">Martine Besnard</a> and  <a href="mailto:julie.keirsse-haquin@imt-atlantique.fr">Julie Keirsse-Haquin</a> are helping us with administration and grant issues.
