@@ -4,17 +4,15 @@
   email: nelly.pustelnik@ens-lyon.fr
   webpage: https://perso.ens-lyon.fr/nelly.pustelnik/
   number_educ: 0
-  education1: 
-  education2: 
+
  
 - name: Luis Briceno-Arias
   photo: Luis.jpeg
   info: 
   email: luis.briceno@usm.cl
   webpage: http://lbriceno.mat.utfsm.cl/
-  number_educ: 0
-  education1: 
-  education2: 
+  number_educ: 1
+
  
 
  - name: Marion Foare
@@ -22,9 +20,8 @@
   info: 
   email: 
   webpage: https://perso.ens-lyon.fr/marion.foare/
-  number_educ: 0
-  education1: 
-  education2: 
+  number_educ: 2
+
  
 
  - name: Elisa Ricietti
@@ -32,7 +29,5 @@
   info: 
   email: 
   webpage: https://perso.ens-lyon.fr/elisa.riccietti/
-  number_educ: 0
-  education1: 
-  education2: 
- 
+  number_educ: 3
+
