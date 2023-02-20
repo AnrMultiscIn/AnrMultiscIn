@@ -8,7 +8,6 @@
 #  education3:
 #  education4:
 
-
 - name: HoangTrieuVy LE (2020-)
   photo: trieuvy.jpg
   info: 
@@ -18,12 +17,11 @@
   webpage: 
   number_educ: 0
 
-
- - name: Guillaume Lauga (2020-)
+- name: Guillaume Lauga (2020-)
   photo: Guillaume.jpeg
   info: 
   supervisors: Paulo Goncalves, Elisa Riccietti and Nelly Pustelnik
   phd: 
   email: guillaume.lauga [@] ens-lyon [DOT] fr
-  webpage: https://laugaguillaume.github.io/
+  webpage: https://laugaguillaume.github.io
  
