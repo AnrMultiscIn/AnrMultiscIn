@@ -8,6 +8,7 @@
  
 - name: Luis Briceno-Arias
   photo: Luis.jpeg
+  info: 
   email: luis.briceno@usm.cl
   webpage: http://lbriceno.mat.utfsm.cl/
   number_educ: 1
@@ -17,22 +18,32 @@
 - name: Marion Foare
   photo: Marion.jpeg
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  info: 
+>>>>>>> parent of 3c0e8d5 (dd)
   email: marion.foare@ens-lyon.fr
 =======
   info: 
   email: 
 >>>>>>> parent of a32f0a3 (Merge branch 'main' of https://github.com/AnrMultiscIn/AnrMultiscIn)
   webpage: https://perso.ens-lyon.fr/marion.foare/
+  number_educ: 2
 
  
 
 - name: Elisa Ricietti
   photo: Elisa.jpeg
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  info: 
+>>>>>>> parent of 3c0e8d5 (dd)
   email: elisa.riccietti@ens-lyon.fr
 =======
   info: 
   email: 
 >>>>>>> parent of a32f0a3 (Merge branch 'main' of https://github.com/AnrMultiscIn/AnrMultiscIn)
   webpage: https://perso.ens-lyon.fr/elisa.riccietti/
+  number_educ: 3
 
