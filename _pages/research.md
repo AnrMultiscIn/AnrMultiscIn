@@ -21,8 +21,6 @@ All ANR Multisc'in shared codes and datasets are availabe on our github repo. We
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
-<div class="col-sm-6 clearfix">
  <div class="well">
  <p><em>{{ code.authors }}</em></p>
   <pubtit>{{ code.title }}</pubtit>
@@ -33,8 +31,6 @@ All ANR Multisc'in shared codes and datasets are availabe on our github repo. We
   <p class="text-danger"><strong> {{ code.news1 }}</strong></p>
   <p> {{ code.news2 }}</p>
  </div>
-</div>
-
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
