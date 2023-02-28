@@ -8,6 +8,7 @@
  
 - name: Luis Briceno-Arias
   photo: Luis.jpeg
+  info: 
   email: luis.briceno@usm.cl
   webpage: http://lbriceno.mat.utfsm.cl/
   number_educ: 1
@@ -16,13 +17,17 @@
 
 - name: Marion Foare
   photo: Marion.jpeg
+  info: 
   email: marion.foare@ens-lyon.fr
   webpage: https://perso.ens-lyon.fr/marion.foare/
+  number_educ: 2
 
  
 
 - name: Elisa Ricietti
   photo: Elisa.jpeg
+  info: 
   email: elisa.riccietti@ens-lyon.fr
   webpage: https://perso.ens-lyon.fr/elisa.riccietti/
+  number_educ: 3
 
