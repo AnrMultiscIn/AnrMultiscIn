@@ -22,7 +22,6 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-20 clearfix">
  <div class="well">
   <p><em>{{ publi.authors }}</em></p>
   <pubtit>{{ publi.title }}</pubtit>
@@ -33,7 +32,6 @@ permalink: /publications/
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
-</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
