@@ -16,13 +16,23 @@
 
 - name: Marion Foare
   photo: Marion.jpeg
+<<<<<<< HEAD
   email: marion.foare@ens-lyon.fr
+=======
+  info: 
+  email: 
+>>>>>>> parent of a32f0a3 (Merge branch 'main' of https://github.com/AnrMultiscIn/AnrMultiscIn)
   webpage: https://perso.ens-lyon.fr/marion.foare/
 
  
 
 - name: Elisa Ricietti
   photo: Elisa.jpeg
+<<<<<<< HEAD
   email: elisa.riccietti@ens-lyon.fr
+=======
+  info: 
+  email: 
+>>>>>>> parent of a32f0a3 (Merge branch 'main' of https://github.com/AnrMultiscIn/AnrMultiscIn)
   webpage: https://perso.ens-lyon.fr/elisa.riccietti/
 
