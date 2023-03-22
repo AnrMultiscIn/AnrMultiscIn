@@ -19,7 +19,7 @@ permalink: /publications/
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="col">
 {% endif %}
 
  <div class="well">
