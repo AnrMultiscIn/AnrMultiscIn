@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-This project is devoted to innovative image processing tools reluing both on optimization and multiresolution analysis in order to provide a new paradigm for interface detection on large scale data. 
+This project is devoted to innovative image processing tools relying both on optimization and multiresolution analysis in order to provide a new paradigm for interface detection on large scale data. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

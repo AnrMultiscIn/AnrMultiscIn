@@ -9,7 +9,6 @@ permalink: /publications/
 
 # Publications
 
-
 ## Group highlights
 
 {% assign number_printed = 0 %}
@@ -28,7 +27,9 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="30%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p><strong><a href="{{ publi.code }}">{{ "[Source code]" }}</a></strong></p>
+{% if publi.code %}
+<p><strong><a href="{{ publi.code }}">{{ "[Source code]" }}</a></strong></p>
+{% endif %}
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
